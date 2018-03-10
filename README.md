@@ -1,7 +1,7 @@
 # Node-feature-discovery
 We can use this feature to add labels to the nodes to advertise hardware features.
  
-#### Run 
+### Run 
 ```
 $ cd node-feature-discovery
 $ ./node_feature_discovery.sh <TYPE>
